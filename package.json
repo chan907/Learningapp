@@ -1,0 +1,14 @@
+{
+    "name": "learning-app",
+    "version": "1.0.0",
+    "description": "Learning App Project",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Chanakshi",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^5.2.1"
+    }
+}
